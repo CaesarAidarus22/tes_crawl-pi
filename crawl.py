@@ -11,7 +11,7 @@ from bs4 import BeautifulSoup
 # sitemap index bola kompas
 SITEMAP_URL = "https://bola.kompas.com/sitemap.xml"
 
-MAX_ITEMS = 250  # target artikel yang mau diambil
+MAX_ITEMS = 350  # target artikel yang mau diambil
 
 TITLE_SELECTORS = [
     ".read__title",
