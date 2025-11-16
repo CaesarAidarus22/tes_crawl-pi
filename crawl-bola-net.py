@@ -9,7 +9,7 @@ from bs4 import BeautifulSoup
 # ===================== KONFIG DASAR =====================
 
 SITEMAP_URL = "https://www.bola.net/sitemap/sitemap.xml"
-MAX_ITEMS = 35  # target jumlah artikel
+MAX_ITEMS = 150  # target jumlah artikel
 
 TITLE_SELECTORS = [
     "h1",
